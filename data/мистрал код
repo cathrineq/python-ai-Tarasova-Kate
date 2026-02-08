@@ -1,0 +1,15 @@
+# Извлекает данные о валютах и их основных свойствах для анализа взаимосвязей
+# Extracts currency data and their main properties for relationship analysis
+
+SELECT DISTINCT ?currency ?currencyLabel ?shortName ?jurisdictionLabel ?startTime ?price ?unitSymbol
+WHERE {
+  ?currency wdt:P31 wd:Q8142 ;          # Элемент является валютой / Item is a currency
+            wdt:P1813 ?shortName ;       # Короткое название валюты / Short name of the currency
+            wdt:P1001 ?jurisdiction .   # Юрисдикция валюты / Jurisdiction of the currency
+  ?jurisdiction rdfs:label ?jurisdictionLabel .  # Метка юрисдикции / Label of the jurisdiction
+  FILTER(LANG(?jurisdictionLabel) = "ru") .      # Только русские метки / Only Russian labels
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],ru". }  # Метки только на русском / Labels only in Russian
+  OPTIONAL { ?currency wdt:P580 ?startTime . }   # Время начала действия валюты / Start time of the currency
+  OPTIONAL { ?currency wdt:P2284 ?price . }      # Цена (курс) валюты / Price (exchange rate) of the currency
+  OPTIONAL { ?currency wdt:P5061 ?unitSymbol . }  # Символ единицы валюты / Unit symbol of the currency
+}
