@@ -1,15 +1,24 @@
-# Извлекает данные о валютах и их основных свойствах для анализа взаимосвязей
-# Extracts currency data and their main properties for relationship analysis
-
-SELECT DISTINCT ?currency ?currencyLabel ?shortName ?jurisdictionLabel ?startTime ?price ?unitSymbol
+SELECT ?currency ?currencyLabel ?shortName ?price ?year ?unitLabel ?unitSymbol
 WHERE {
-  ?currency wdt:P31 wd:Q8142 ;          # Элемент является валютой / Item is a currency
-            wdt:P1813 ?shortName ;       # Короткое название валюты / Short name of the currency
-            wdt:P1001 ?jurisdiction .   # Юрисдикция валюты / Jurisdiction of the currency
-  ?jurisdiction rdfs:label ?jurisdictionLabel .  # Метка юрисдикции / Label of the jurisdiction
-  FILTER(LANG(?jurisdictionLabel) = "ru") .      # Только русские метки / Only Russian labels
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],ru". }  # Метки только на русском / Labels only in Russian
-  OPTIONAL { ?currency wdt:P580 ?startTime . }   # Время начала действия валюты / Start time of the currency
-  OPTIONAL { ?currency wdt:P2284 ?price . }      # Цена (курс) валюты / Price (exchange rate) of the currency
-  OPTIONAL { ?currency wdt:P5061 ?unitSymbol . }  # Символ единицы валюты / Unit symbol of the currency
+  ?currency wdt:P31 wd:Q8142 .          # Элемент является валютой
+  
+  OPTIONAL { ?currency wdt:P1813 ?shortName . }  # Короткое название
+  OPTIONAL { ?currency wdt:P5061 ?unitSymbol . }  # Символ единицы валюты 
+
+  OPTIONAL {                            # Цена с квалификаторами
+    ?currency p:P2284 ?priceStatement .
+    ?priceStatement ps:P2284 ?price .   # Числовое значение цены
+    
+    # Извлекаем единицу измерения (валюту) через value node
+    ?priceStatement psv:P2284 ?priceValue .
+    ?priceValue wikibase:quantityUnit ?unit .
+    
+    # Извлекаем квалификатор "point in time" (P585)
+    OPTIONAL { 
+      ?priceStatement pq:P585 ?pointInTime .
+      BIND(YEAR(?pointInTime) AS ?year)  # Преобразуем дату в год
+    }
+  }
+  
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
 }
