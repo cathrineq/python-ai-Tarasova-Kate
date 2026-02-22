@@ -1,3 +1,5 @@
+# Извлекает данные о валютах и их основных свойствах, включая валюту, по отношению к которой указана цена
+# Extracts currency data and their main properties, including the currency to which the price is relative
 SELECT ?currency ?currencyLabel ?shortName ?price ?year ?unitLabel ?unitSymbol
 WHERE {
   ?currency wdt:P31 wd:Q8142 .          # Элемент является валютой
