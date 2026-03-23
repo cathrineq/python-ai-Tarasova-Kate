@@ -1,0 +1,804 @@
+country,countryLabel,currency,currencyLabel,population,area,shortName
+http://www.wikidata.org/entity/Q1033,Нигерия,http://www.wikidata.org/entity/Q203567,нигерийская найра,211400708,923768,
+http://www.wikidata.org/entity/Q1030,Намибия,http://www.wikidata.org/entity/Q202462,доллар Намибии,2533794,825615,
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q80524,индийская рупия,15178979,390757,
+http://www.wikidata.org/entity/Q917,Бутан,http://www.wikidata.org/entity/Q201799,нгултрум,787424,38394,
+http://www.wikidata.org/entity/Q1013,Лесото,http://www.wikidata.org/entity/Q181907,южноафриканский рэнд,2007201,30355,
+http://www.wikidata.org/entity/Q1005,Гамбия,http://www.wikidata.org/entity/Q202885,гамбийский даласи,2639916,11300,
+http://www.wikidata.org/entity/Q1011,Кабо-Верде,http://www.wikidata.org/entity/Q4591,Эскудо Кабо-Верде,555988,4033,
+http://www.wikidata.org/entity/Q833,Малайзия,http://www.wikidata.org/entity/Q163712,малайзийский ринггит,32447385,330803,
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q25224,фунт стерлингов,15178979,390757,GBP (£)
+http://www.wikidata.org/entity/Q967,Бурунди,http://www.wikidata.org/entity/Q238007,бурундийский франк,13689450,27834,
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q181907,южноафриканский рэнд,15178979,390757,
+http://www.wikidata.org/entity/Q792,Сальвадор,http://www.wikidata.org/entity/Q4917,доллар США,6029976,21041,US dollar
+http://www.wikidata.org/entity/Q1029,Мозамбик,http://www.wikidata.org/entity/Q200753,мозамбикский метикал,29668834,801590,
+http://www.wikidata.org/entity/Q986,Эритрея,http://www.wikidata.org/entity/Q171503,эритрейская накфа,3497000,117600,
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4917,доллар США,15178979,390757,US dollar
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q8146,японская иена,15178979,390757,JP¥
+http://www.wikidata.org/entity/Q836,Мьянма,http://www.wikidata.org/entity/Q201875,кьят,53370609,676577.2,
+http://www.wikidata.org/entity/Q1028,Марокко,http://www.wikidata.org/entity/Q200192,марокканский дирхам,36828330,446550,
+http://www.wikidata.org/entity/Q817,Кувейт,http://www.wikidata.org/entity/Q193098,кувейтский динар,4464000,17818,
+http://www.wikidata.org/entity/Q804,Панама,http://www.wikidata.org/entity/Q210472,панамский бальбоа,4570133,74177.3,
+http://www.wikidata.org/entity/Q928,Филиппины,http://www.wikidata.org/entity/Q17193,филиппинское песо,112729484,343448,
+http://www.wikidata.org/entity/Q757,Сент-Винсент и Гренадины,http://www.wikidata.org/entity/Q26365,восточно-карибский доллар,109897,389,
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,euro
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,euro
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,euro
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,euro
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,Euro
+http://www.wikidata.org/entity/Q884,Республика Корея,http://www.wikidata.org/entity/Q202040,южнокорейская вона,51466201,100295,
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,euro
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,euro
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,euro
+http://www.wikidata.org/entity/Q921,Бруней,http://www.wikidata.org/entity/Q206319,брунейский доллар,458949,5765.313533,
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q39099,китайский юань,15178979,390757,RMB
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q39099,китайский юань,15178979,390757,CNY
+http://www.wikidata.org/entity/Q794,Иран,http://www.wikidata.org/entity/Q188608,иранский риал,92417700,1648195,
+http://www.wikidata.org/entity/Q1013,Лесото,http://www.wikidata.org/entity/Q208039,Лоти Лесото,2007201,30355,
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q39099,китайский юань,15178979,390757,Yuan
+http://www.wikidata.org/entity/Q760,Сент-Люсия,http://www.wikidata.org/entity/Q26365,восточно-карибский доллар,167591,617.012867,
+http://www.wikidata.org/entity/Q858,Сирия,http://www.wikidata.org/entity/Q240468,сирийский фунт,23865423,185180,
+http://www.wikidata.org/entity/Q778,Багамские Острова,http://www.wikidata.org/entity/Q194339,багамский доллар,399440,13878,
+http://www.wikidata.org/entity/Q826,Мальдивы,http://www.wikidata.org/entity/Q206600,мальдивская руфия,436330,298,
+http://www.wikidata.org/entity/Q953,Замбия,http://www.wikidata.org/entity/Q73408,замбийская квача,19610769,752618,
+http://www.wikidata.org/entity/Q1020,Малави,http://www.wikidata.org/entity/Q211694,малавийская квача,17563749,118484,
+http://www.wikidata.org/entity/Q878,Объединённые Арабские Эмираты,http://www.wikidata.org/entity/Q200294,дирхам ОАЭ,9890400,83600,
+http://www.wikidata.org/entity/Q963,Ботсвана,http://www.wikidata.org/entity/Q186794,Ботсванская пула,2480244,581737,
+http://www.wikidata.org/entity/Q763,Сент-Китс и Невис,http://www.wikidata.org/entity/Q26365,восточно-карибский доллар,46922,269.358763,
+http://www.wikidata.org/entity/Q784,Доминика,http://www.wikidata.org/entity/Q26365,восточно-карибский доллар,74656,751.096551,
+http://www.wikidata.org/entity/Q811,Никарагуа,http://www.wikidata.org/entity/Q207312,никарагуанская кордоба,5142098,120340,
+http://www.wikidata.org/entity/Q805,Йемен,http://www.wikidata.org/entity/Q240512,йеменский риал,28250420,455503,
+http://www.wikidata.org/entity/Q1019,Мадагаскар,http://www.wikidata.org/entity/Q4584,малагасийский ариари,31964956,587295,
+http://www.wikidata.org/entity/Q1030,Намибия,http://www.wikidata.org/entity/Q181907,южноафриканский рэнд,2533794,825615,
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,евро
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,ευρώ
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,euro
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,euro
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,euró
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,euras
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,eiro
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,ewro
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,euro
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,euro
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q39099,китайский юань,15178979,390757,yuan
+http://www.wikidata.org/entity/Q766,Ямайка,http://www.wikidata.org/entity/Q209792,ямайский доллар,2697983,10991.90954,
+http://www.wikidata.org/entity/Q974,Демократическая Республика Конго,http://www.wikidata.org/entity/Q4734,конголезский франк,105789731,2344858,
+http://www.wikidata.org/entity/Q916,Ангола,http://www.wikidata.org/entity/Q200337,ангольская кванза,36749906,1246700,
+http://www.wikidata.org/entity/Q774,Гватемала,http://www.wikidata.org/entity/Q207396,гватемальский кетсаль,17263239,108889,
+http://www.wikidata.org/entity/Q977,Джибути,http://www.wikidata.org/entity/Q4594,Франк Джибути,1152944,23200,
+http://www.wikidata.org/entity/Q783,Гондурас,http://www.wikidata.org/entity/Q4719,гондурасская лемпира,8303771,112492,
+http://www.wikidata.org/entity/Q801,Израиль,http://www.wikidata.org/entity/Q131309,новый израильский шекель,9840000,20770,
+http://www.wikidata.org/entity/Q869,Таиланд,http://www.wikidata.org/entity/Q177882,тайский бат,66188503,513119.5,
+http://www.wikidata.org/entity/Q804,Панама,http://www.wikidata.org/entity/Q4917,доллар США,4570133,74177.3,US dollar
+http://www.wikidata.org/entity/Q851,Саудовская Аравия,http://www.wikidata.org/entity/Q199857,саудовский риял,33000000,2250000,
+http://www.wikidata.org/entity/Q781,Антигуа и Барбуда,http://www.wikidata.org/entity/Q26365,восточно-карибский доллар,101489,440.29,
+http://www.wikidata.org/entity/Q948,Тунис,http://www.wikidata.org/entity/Q4602,тунисский динар,11565204,163610,
+http://www.wikidata.org/entity/Q1016,Ливия,http://www.wikidata.org/entity/Q190699,ливийский динар,6678567,1759541,
+http://www.wikidata.org/entity/Q863,Таджикистан,http://www.wikidata.org/entity/Q199886,таджикский сомони,9504000,143100,
+http://www.wikidata.org/entity/Q790,Гаити,http://www.wikidata.org/entity/Q203955,гаитянский гурд,10981229,27750,
+http://www.wikidata.org/entity/Q854,Шри-Ланка,http://www.wikidata.org/entity/Q4596,ланкийская рупия,21444000,65610,
+http://www.wikidata.org/entity/Q769,Гренада,http://www.wikidata.org/entity/Q26365,восточно-карибский доллар,114299,348.5,
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q4916,евро,15178979,390757,euro
+http://www.wikidata.org/entity/Q792,Сальвадор,http://www.wikidata.org/entity/Q131723,Биткоин,6029976,21041,BTC
+http://www.wikidata.org/entity/Q881,Вьетнам,http://www.wikidata.org/entity/Q192090,вьетнамский донг,96208984,331690,
+http://www.wikidata.org/entity/Q924,Танзания,http://www.wikidata.org/entity/Q4589,танзанийский шиллинг,57310019,947303,
+http://www.wikidata.org/entity/Q865,Китайская Республика (Тайвань),http://www.wikidata.org/entity/Q208526,новый тайваньский доллар,23317031,36193,
+http://www.wikidata.org/entity/Q813,Кыргызстан,http://www.wikidata.org/entity/Q35881,киргизский сом,7281800,199951,
+http://www.wikidata.org/entity/Q843,Пакистан,http://www.wikidata.org/entity/Q188289,пакистанская рупия,223773700,881913,
+http://www.wikidata.org/entity/Q1027,Маврикий,http://www.wikidata.org/entity/Q212967,Маврикийская рупия,1264613,2040,
+http://www.wikidata.org/entity/Q846,Катар,http://www.wikidata.org/entity/Q206386,катарский риал,2639211,11437,
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q182803,доллар Зимбабве,15178979,390757,
+http://www.wikidata.org/entity/Q796,Ирак,http://www.wikidata.org/entity/Q193094,иракский динар,38274618,437072,
+http://www.wikidata.org/entity/Q810,Иордания,http://www.wikidata.org/entity/Q203722,иорданский динар,10428241,89341,
+http://www.wikidata.org/entity/Q837,Непал,http://www.wikidata.org/entity/Q202895,непальская рупия,29164578,147181.254346,
+http://www.wikidata.org/entity/Q819,Лаос,http://www.wikidata.org/entity/Q200055,лаосский кип,6858160,236800,
+http://www.wikidata.org/entity/Q754,Тринидад и Тобаго,http://www.wikidata.org/entity/Q242890,доллар Тринидада и Тобаго,1369125,5128,
+http://www.wikidata.org/entity/Q750,Боливия,http://www.wikidata.org/entity/Q200737,боливиано,12244159,1098581,
+http://www.wikidata.org/entity/Q1006,Гвинея,http://www.wikidata.org/entity/Q213311,Гвинейский франк,12717176,245857,
+http://www.wikidata.org/entity/Q889,Афганистан,http://www.wikidata.org/entity/Q199471,афгани,41454761,652230,AFN
+http://www.wikidata.org/entity/Q1025,Мавритания,http://www.wikidata.org/entity/Q207024,Мавританская угия,4736139,1030700,
+http://www.wikidata.org/entity/Q902,Бангладеш,http://www.wikidata.org/entity/Q194453,бангладешская така,171466990,147570,
+http://www.wikidata.org/entity/Q822,Ливан,http://www.wikidata.org/entity/Q201880,ливанский фунт,6100075,10452,
+http://www.wikidata.org/entity/Q685,Соломоновы Острова,http://www.wikidata.org/entity/Q4597,доллар Соломоновых Островов,611343,28400,
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,euro
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,euro
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,euro
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,euro
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,euro
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,euro
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,euro
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,euro
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,euro
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,euro
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,euro
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,euro
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,euro
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,euro
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,euro
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,euro
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,euro
+http://www.wikidata.org/entity/Q96,Мексика,http://www.wikidata.org/entity/Q4730,мексиканское песо,132274416,1972550,
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,euro
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,euro
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,euro
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,euro
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,euro
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,euro
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,euro
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,euro
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,euro
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,euro
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,euro
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,euro
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,euro
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,euro
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,euro
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,euro
+http://www.wikidata.org/entity/Q672,Тувалу,http://www.wikidata.org/entity/Q4406,доллар Тувалу,10643,25.14,
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,euro
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,euro
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,euro
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,euro
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,euro
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,euro
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,euro
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,euro
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,euro
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,euro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,euro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,euro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,euro
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,euro
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,euro
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,euro
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,euro
+http://www.wikidata.org/entity/Q683,Самоа,http://www.wikidata.org/entity/Q4588,самоанская тала,200010,2842,
+http://www.wikidata.org/entity/Q230,Грузия,http://www.wikidata.org/entity/Q4608,грузинский лари,3717100,69700,
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,euro
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,euro
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,euro
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,euro
+http://www.wikidata.org/entity/Q678,Тонга,http://www.wikidata.org/entity/Q4613,тонганская паанга,108020,748.506563,
+http://www.wikidata.org/entity/Q712,Фиджи,http://www.wikidata.org/entity/Q4592,доллар Фиджи,926276,18274,
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,euro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,euro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,euro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,euro
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,euro
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,euro
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,euro
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,euro
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,euro
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,euro
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,euro
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,euro
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,euro
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,euro
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,euro
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,euro
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,euro
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,euro
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,euro
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,euro
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,euro
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,euro
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,euro
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,euro
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,euro
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,euro
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,euro
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,euro
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,euro
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,euro
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,euro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,euro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,euro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,euro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,Euro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,euro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,euro
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,euro
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,Euro
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,euro
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,euro
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,euro
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,Euro
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,euro
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,euro
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,Euro
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,euro
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,euro
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,euro
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,Euro
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,euro
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,euro
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,Euro
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,euro
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,euro
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,euro
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,Euro
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,euro
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,euro
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,Euro
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,euro
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,euro
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,euro
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,euro
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,Euro
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,euro
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,euro
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,euro
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,Euro
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,euro
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,euro
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,euro
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,Euro
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,euro
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,euro
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,euro
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,Euro
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,euro
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,euro
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,euro
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,Euro
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,euro
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,euro
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,Euro
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,euro
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,euro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,euro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,Euro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,euro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,euro
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,Euro
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,euro
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,euro
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,Euro
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,euro
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,euro
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,Euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,euro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,euro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,Euro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,euro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,Euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,euro
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,Euro
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,euro
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,euro
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,euro
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,Euro
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,euro
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,euro
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,euro
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,Euro
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,euro
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,euro
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,Euro
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,euro
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,euro
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,euro
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,Euro
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,euro
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,euro
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,Euro
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,euro
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,euro
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,Euro
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,euro
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,euro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,euro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,euro
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,евро
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,ευρώ
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,euro
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,euro
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,euro
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,euro
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,евро
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,ευρώ
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,euro
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,евро
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,ευρώ
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,euro
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,euro
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,euro
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,евро
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,ευρώ
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,euro
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,euro
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,евро
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,ευρώ
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,euro
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,евро
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,ευρώ
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,euro
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,евро
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,ευρώ
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,euro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,евро
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,ευρώ
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,euro
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,euro
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,euro
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,евро
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,ευρώ
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,euro
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,евро
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,ευρώ
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,euro
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,евро
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,ευρώ
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,euro
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,евро
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,ευρώ
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,euro
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,euro
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,euro
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,евро
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,ευρώ
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,euro
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,euro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,euro
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,евро
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,ευρώ
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,евро
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,ευρώ
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,euro
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,euro
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,евро
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,ευρώ
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,евро
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,ευρώ
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,euro
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,евро
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,ευρώ
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,euro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,euro
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,евро
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,ευρώ
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,euro
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,евро
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,ευρώ
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,euro
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,евро
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,ευρώ
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,euro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,евро
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,ευρώ
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,евро
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,ευρώ
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,euro
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,евро
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,ευρώ
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,euro
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,euro
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,евро
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,ευρώ
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,euro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,евро
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,ευρώ
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,euro
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,euro
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,евро
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,ευρώ
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,euro
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,euro
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,euro
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,euró
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,euras
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,eiro
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,euro
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,euró
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,euras
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,eiro
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,euro
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,euró
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,euras
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,eiro
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,euro
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,euró
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,euras
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,eiro
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,euro
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,euró
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,euras
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,eiro
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,euro
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,euró
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,euras
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,eiro
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,euro
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,euró
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,euras
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,eiro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,euro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,euro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,euró
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,euras
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,euro
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,euró
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,euras
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,euro
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,euró
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,euras
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,eiro
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,euro
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,euró
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,euras
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,eiro
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,euro
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,euró
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,euras
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,euro
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,euró
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,euras
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,eiro
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,euro
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,euro
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,euró
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,euras
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,euro
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,euró
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,euras
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,eiro
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,euro
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,euro
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,euró
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,euras
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,euro
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,euró
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,euras
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,euro
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,euró
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,euras
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,euro
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,euró
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,euras
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,euro
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,euró
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,euras
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,euro
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,euró
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,euras
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,eiro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,euro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,euro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,euró
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,euras
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,euro
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,euró
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,euras
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,eiro
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,euro
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,euró
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,euras
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,eiro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,euró
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,euras
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,eiro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,euro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,euró
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,euras
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,euró
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,euras
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,euro
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,ewro
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,euro
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,euro
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,ewro
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,euro
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,euro
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,ewro
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,euro
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,euro
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,ewro
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,euro
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,euro
+http://www.wikidata.org/entity/Q32,Люксембург,http://www.wikidata.org/entity/Q4916,евро,681987,2586.36,euro
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,ewro
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,euro
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,euro
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,ewro
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,euro
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,euro
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,ewro
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,euro
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,euro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,eiro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,ewro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,euro
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,euro
+http://www.wikidata.org/entity/Q31,Бельгия,http://www.wikidata.org/entity/Q4916,евро,11825551,30688,euro
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,eiro
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,ewro
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,euro
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,euro
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,ewro
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,euro
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,euro
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,ewro
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,euro
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,euro
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,eiro
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,ewro
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,euro
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,euro
+http://www.wikidata.org/entity/Q37,Литва,http://www.wikidata.org/entity/Q4916,евро,2860002,65300,euro
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,ewro
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,euro
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,euro
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,eiro
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,ewro
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,euro
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,euro
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,ewro
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,euro
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,euro
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,eiro
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,ewro
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,euro
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,euro
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,eiro
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,ewro
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,euro
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,euro
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,eiro
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,ewro
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,euro
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,euro
+http://www.wikidata.org/entity/Q33,Финляндия,http://www.wikidata.org/entity/Q4916,евро,5608218,338478.34,euro
+http://www.wikidata.org/entity/Q27,Ирландия,http://www.wikidata.org/entity/Q4916,евро,5149139,69797,euro
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,eiro
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,ewro
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,euro
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,euro
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,eiro
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,ewro
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,euro
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,euro
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,ewro
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,euro
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,euro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,eiro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,ewro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,euro
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,euro
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,ewro
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,euro
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,euro
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,ewro
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,euro
+http://www.wikidata.org/entity/Q29,Испания,http://www.wikidata.org/entity/Q4916,евро,48592909,505990,euro
+http://www.wikidata.org/entity/Q38,Италия,http://www.wikidata.org/entity/Q4916,евро,58850717,302068,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,ewro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,euro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,eiro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,ewro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,euro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,eiro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,ewro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,euro
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,euro
+http://www.wikidata.org/entity/Q842,Оман,http://www.wikidata.org/entity/Q272290,оманский риал,4829480,309500,
+http://www.wikidata.org/entity/Q1008,Кот-д’Ивуар,http://www.wikidata.org/entity/Q861690,франк КФА BCEAO,31165654,322463,
+http://www.wikidata.org/entity/Q965,Буркина-Фасо,http://www.wikidata.org/entity/Q861690,франк КФА BCEAO,23025776,274200,
+http://www.wikidata.org/entity/Q347,Лихтенштейн,http://www.wikidata.org/entity/Q25344,швейцарский франк,37922,160,
+http://www.wikidata.org/entity/Q221,Северная Македония,http://www.wikidata.org/entity/Q177875,македонский денар,1836713,25713,
+http://www.wikidata.org/entity/Q222,Албания,http://www.wikidata.org/entity/Q125999,албанский лек,2811655,28748,
+http://www.wikidata.org/entity/Q213,Чехия,http://www.wikidata.org/entity/Q131016,чешская крона,10909500,78871,
+http://www.wikidata.org/entity/Q43,Турция,http://www.wikidata.org/entity/Q172872,турецкая лира,85372377,783562,
+http://www.wikidata.org/entity/Q711,Монголия,http://www.wikidata.org/entity/Q183435,монгольский тугрик,3409939,1564116,
+http://www.wikidata.org/entity/Q34,Швеция,http://www.wikidata.org/entity/Q122922,шведская крона,10609460,447425.16,SEK
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,62226.85,euro
+http://www.wikidata.org/entity/Q219,Болгария,http://www.wikidata.org/entity/Q4916,евро,6437360,110993.6,euro
+http://www.wikidata.org/entity/Q403,Сербия,http://www.wikidata.org/entity/Q172524,сербский динар,6605168,88499,
+http://www.wikidata.org/entity/Q20,Норвегия,http://www.wikidata.org/entity/Q132643,норвежская крона,5627400,385207,NOK
+http://www.wikidata.org/entity/Q20,Норвегия,http://www.wikidata.org/entity/Q132643,норвежская крона,5627400,385207,NOK
+http://www.wikidata.org/entity/Q20,Норвегия,http://www.wikidata.org/entity/Q132643,норвежская крона,5627400,385207,NOK
+http://www.wikidata.org/entity/Q334,Сингапур,http://www.wikidata.org/entity/Q190951,сингапурский доллар,5866139,719.1,
+http://www.wikidata.org/entity/Q265,Узбекистан,http://www.wikidata.org/entity/Q487888,узбекский сум,34915100,448978,
+http://www.wikidata.org/entity/Q212,Украина,http://www.wikidata.org/entity/Q81893,украинская гривна,41167335,603550,грн
+http://www.wikidata.org/entity/Q211,Латвия,http://www.wikidata.org/entity/Q4916,евро,1856932,64593.76,euro
+http://www.wikidata.org/entity/Q414,Аргентина,http://www.wikidata.org/entity/Q199578,аргентинское песо,47327407,2780400,
+http://www.wikidata.org/entity/Q419,Перу,http://www.wikidata.org/entity/Q204656,перуанский новый соль,33726000,1285216,
+http://www.wikidata.org/entity/Q227,Азербайджан,http://www.wikidata.org/entity/Q483725,азербайджанский манат,10180770,86600,
+http://www.wikidata.org/entity/Q35,Дания,http://www.wikidata.org/entity/Q25417,датская крона,5822863,42925.46,DKK
+http://www.wikidata.org/entity/Q218,Румыния,http://www.wikidata.org/entity/Q131645,румынский лей,19053815,238397,
+http://www.wikidata.org/entity/Q36,Польша,http://www.wikidata.org/entity/Q123213,польский злотый,37563071,312683,
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q214393,французский тихоокеанский франк,68605616,643801,
+http://www.wikidata.org/entity/Q148,Китай,http://www.wikidata.org/entity/Q39099,китайский юань,1442965000,9596961,RMB
+http://www.wikidata.org/entity/Q114,Кения,http://www.wikidata.org/entity/Q202882,кенийский шиллинг,48468138,581309,
+http://www.wikidata.org/entity/Q142,Франция,http://www.wikidata.org/entity/Q4916,евро,68605616,643801,euro
+http://www.wikidata.org/entity/Q148,Китай,http://www.wikidata.org/entity/Q39099,китайский юань,1442965000,9596961,CNY
+http://www.wikidata.org/entity/Q39,Швейцария,http://www.wikidata.org/entity/Q25344,швейцарский франк,9104063,41291,
+http://www.wikidata.org/entity/Q574,Восточный Тимор,http://www.wikidata.org/entity/Q4917,доллар США,1243235,14918.72,US dollar
+http://www.wikidata.org/entity/Q35,Дания,http://www.wikidata.org/entity/Q25417,датская крона,5822863,42925.46,DKK
+http://www.wikidata.org/entity/Q408,Австралия,http://www.wikidata.org/entity/Q259502,австралийский доллар,27614411,7692024,AU$
+http://www.wikidata.org/entity/Q408,Австралия,http://www.wikidata.org/entity/Q259502,австралийский доллар,27614411,7692024,AU$
+http://www.wikidata.org/entity/Q408,Австралия,http://www.wikidata.org/entity/Q259502,австралийский доллар,27614411,7692024,AU$
+http://www.wikidata.org/entity/Q148,Китай,http://www.wikidata.org/entity/Q39099,китайский юань,1442965000,9596961,Yuan
+http://www.wikidata.org/entity/Q30,США,http://www.wikidata.org/entity/Q4917,доллар США,340110988,9826675,US dollar
+http://www.wikidata.org/entity/Q691,Папуа — Новая Гвинея,http://www.wikidata.org/entity/Q200759,Кина,8935000,462840,
+http://www.wikidata.org/entity/Q189,Исландия,http://www.wikidata.org/entity/Q131473,исландская крона,364260,103004,
+http://www.wikidata.org/entity/Q702,Федеративные Штаты Микронезии,http://www.wikidata.org/entity/Q4917,доллар США,75817,702,US dollar
+http://www.wikidata.org/entity/Q17,Япония,http://www.wikidata.org/entity/Q8146,японская иена,123802000,377972.28,JP¥
+http://www.wikidata.org/entity/Q45,Португалия,http://www.wikidata.org/entity/Q4916,евро,10347892,92225,euro
+http://www.wikidata.org/entity/Q398,Бахрейн,http://www.wikidata.org/entity/Q201871,бахрейнский динар,1569666,786.5,
+http://www.wikidata.org/entity/Q159,Россия,http://www.wikidata.org/entity/Q41044,российский рубль,146119928,17075400,RUB
+http://www.wikidata.org/entity/Q191,Эстония,http://www.wikidata.org/entity/Q4916,евро,1369995,45335,euro
+http://www.wikidata.org/entity/Q41,Греция,http://www.wikidata.org/entity/Q4916,евро,10482487,131957,euro
+http://www.wikidata.org/entity/Q159,Россия,http://www.wikidata.org/entity/Q41044,российский рубль,146119928,17075400,₽
+http://www.wikidata.org/entity/Q399,Армения,http://www.wikidata.org/entity/Q130498,армянский драм,2930450,29743.423459,
+http://www.wikidata.org/entity/Q237,Ватикан,http://www.wikidata.org/entity/Q4916,евро,882,0.49,euro
+http://www.wikidata.org/entity/Q232,Казахстан,http://www.wikidata.org/entity/Q173751,казахстанский тенге,20139914,2724900,
+http://www.wikidata.org/entity/Q159,Россия,http://www.wikidata.org/entity/Q41044,российский рубль,146119928,17075400,rubl’u
+http://www.wikidata.org/entity/Q252,Индонезия,http://www.wikidata.org/entity/Q41588,индонезийская рупия,275439000,1904570,
+http://www.wikidata.org/entity/Q77,Уругвай,http://www.wikidata.org/entity/Q209272,уругвайское песо,3444263,176215,
+http://www.wikidata.org/entity/Q79,Египет,http://www.wikidata.org/entity/Q199462,египетский фунт,114535772,1010407.87,
+http://www.wikidata.org/entity/Q223,Гренландия,http://www.wikidata.org/entity/Q25417,датская крона,56609,2166086,DKK
+http://www.wikidata.org/entity/Q214,Словакия,http://www.wikidata.org/entity/Q4916,евро,5419451,49034,euro
+http://www.wikidata.org/entity/Q262,Алжир,http://www.wikidata.org/entity/Q199674,алжирский динар,46164219,2381741,
+http://www.wikidata.org/entity/Q183,Германия,http://www.wikidata.org/entity/Q4916,евро,83577140,357587.77,euro
+http://www.wikidata.org/entity/Q40,Австрия,http://www.wikidata.org/entity/Q4916,евро,8979894,83878.99,euro
+http://www.wikidata.org/entity/Q159,Россия,http://www.wikidata.org/entity/Q41044,российский рубль,146119928,17075400,RUB
+http://www.wikidata.org/entity/Q159,Россия,http://www.wikidata.org/entity/Q41044,российский рубль,146119928,17075400,р.
+http://www.wikidata.org/entity/Q159,Россия,http://www.wikidata.org/entity/Q41044,российский рубль,146119928,17075400,руб.
+http://www.wikidata.org/entity/Q686,Вануату,http://www.wikidata.org/entity/Q207523,вату,300019,12190,
+http://www.wikidata.org/entity/Q148,Китай,http://www.wikidata.org/entity/Q39099,китайский юань,1442965000,9596961,yuan
+http://www.wikidata.org/entity/Q424,Камбоджа,http://www.wikidata.org/entity/Q204737,камбоджийский риель,17423880,181035,
+http://www.wikidata.org/entity/Q233,Мальта,http://www.wikidata.org/entity/Q4916,евро,553214,316,euro
+http://www.wikidata.org/entity/Q258,ЮАР,http://www.wikidata.org/entity/Q181907,южноафриканский рэнд,62027503,1221037,
+http://www.wikidata.org/entity/Q223,Гренландия,http://www.wikidata.org/entity/Q25417,датская крона,56609,2166086,DKK
+http://www.wikidata.org/entity/Q115,Эфиопия,http://www.wikidata.org/entity/Q206243,эфиопский быр,128691692,1104300,
+http://www.wikidata.org/entity/Q710,Кирибати,http://www.wikidata.org/entity/Q259502,австралийский доллар,134518,811,AU$
+http://www.wikidata.org/entity/Q710,Кирибати,http://www.wikidata.org/entity/Q259502,австралийский доллар,134518,811,AU$
+http://www.wikidata.org/entity/Q710,Кирибати,http://www.wikidata.org/entity/Q259502,австралийский доллар,134518,811,AU$
+http://www.wikidata.org/entity/Q709,Маршалловы Острова,http://www.wikidata.org/entity/Q4917,доллар США,53127,181.43,US dollar
+http://www.wikidata.org/entity/Q236,Черногория,http://www.wikidata.org/entity/Q4916,евро,617213,13883,euro
+http://www.wikidata.org/entity/Q242,Белиз,http://www.wikidata.org/entity/Q275112,белизский доллар,411106,22966,
+http://www.wikidata.org/entity/Q298,Чили,http://www.wikidata.org/entity/Q200050,чилийское песо,19458000,756102,
+http://www.wikidata.org/entity/Q235,Монако,http://www.wikidata.org/entity/Q4916,евро,38423,2.08,euro
+http://www.wikidata.org/entity/Q695,Палау,http://www.wikidata.org/entity/Q4917,доллар США,21729,465.550362,US dollar
+http://www.wikidata.org/entity/Q117,Гана,http://www.wikidata.org/entity/Q183530,Ганский седи,32833031,238535,
+http://www.wikidata.org/entity/Q574,Восточный Тимор,http://www.wikidata.org/entity/Q572213,тиморское сентаво,1243235,14918.72,
+http://www.wikidata.org/entity/Q217,Молдова,http://www.wikidata.org/entity/Q181129,молдавский лей,2409207,33843.5,
+http://www.wikidata.org/entity/Q224,Хорватия,http://www.wikidata.org/entity/Q4916,евро,3871833,56594,euro
+http://www.wikidata.org/entity/Q228,Андорра,http://www.wikidata.org/entity/Q4916,евро,87486,468,euro
+http://www.wikidata.org/entity/Q423,КНДР,http://www.wikidata.org/entity/Q106720,вона КНДР,26418204,120540,
+http://www.wikidata.org/entity/Q244,Барбадос,http://www.wikidata.org/entity/Q194351,барбадосский доллар,303431,439,
+http://www.wikidata.org/entity/Q28,Венгрия,http://www.wikidata.org/entity/Q47190,венгерский форинт,9603634,93011.4,
+http://www.wikidata.org/entity/Q225,Босния и Герцеговина,http://www.wikidata.org/entity/Q179620,конвертируемая марка,3816459,51197,
+http://www.wikidata.org/entity/Q672,Тувалу,http://www.wikidata.org/entity/Q259502,австралийский доллар,10643,25.14,AU$
+http://www.wikidata.org/entity/Q672,Тувалу,http://www.wikidata.org/entity/Q259502,австралийский доллар,10643,25.14,AU$
+http://www.wikidata.org/entity/Q672,Тувалу,http://www.wikidata.org/entity/Q259502,австралийский доллар,10643,25.14,AU$
+http://www.wikidata.org/entity/Q229,Кипр,http://www.wikidata.org/entity/Q4916,евро,1344976,9242.45,euro
+http://www.wikidata.org/entity/Q215,Словения,http://www.wikidata.org/entity/Q4916,евро,2066880,20271,euro
+http://www.wikidata.org/entity/Q697,Науру,http://www.wikidata.org/entity/Q259502,австралийский доллар,13650,21,AU$
+http://www.wikidata.org/entity/Q697,Науру,http://www.wikidata.org/entity/Q259502,австралийский доллар,13650,21,AU$
+http://www.wikidata.org/entity/Q697,Науру,http://www.wikidata.org/entity/Q259502,австралийский доллар,13650,21,AU$
+http://www.wikidata.org/entity/Q241,Куба,http://www.wikidata.org/entity/Q201505,кубинское песо,10985974,109884,
+http://www.wikidata.org/entity/Q238,Сан-Марино,http://www.wikidata.org/entity/Q4916,евро,33600,61.2,euro
+http://www.wikidata.org/entity/Q145,Великобритания,http://www.wikidata.org/entity/Q25224,фунт стерлингов,67326569,242495,GBP (£)
+http://www.wikidata.org/entity/Q668,Индия,http://www.wikidata.org/entity/Q80524,индийская рупия,1477519529,3287263,
+http://www.wikidata.org/entity/Q155,Бразилия,http://www.wikidata.org/entity/Q173117,бразильский реал,213421037,8515767,
+http://www.wikidata.org/entity/Q55,Нидерланды,http://www.wikidata.org/entity/Q4916,евро,17942942,37378,euro
+http://www.wikidata.org/entity/Q1147441,Британский Северный Борнео,http://www.wikidata.org/entity/Q2296365,доллар Северного Борнео,285000,761152,
+http://www.wikidata.org/entity/Q709,Маршалловы Острова,http://www.wikidata.org/entity/Q96051466,SOV,53127,181.43,
+http://www.wikidata.org/entity/Q1147441,Британский Северный Борнео,http://www.wikidata.org/entity/Q2296365,доллар Северного Борнео,67062,761152,
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,euro
+http://www.wikidata.org/entity/Q3284315,Пасей,http://www.wikidata.org/entity/Q572664,дирхам,,,
+http://www.wikidata.org/entity/Q34020,Ниуэ,http://www.wikidata.org/entity/Q1472704,новозеландский доллар,1821,260,
+http://www.wikidata.org/entity/Q730,Суринам,http://www.wikidata.org/entity/Q202036,суринамский доллар,563402,163270,
+http://www.wikidata.org/entity/Q1032,Нигер,http://www.wikidata.org/entity/Q861690,франк КФА BCEAO,21477348,1267000,
+http://www.wikidata.org/entity/Q786,Доминиканская Республика,http://www.wikidata.org/entity/Q242922,доминиканское песо,10760028,48670.82,
+http://www.wikidata.org/entity/Q983,Экваториальная Гвинея,http://www.wikidata.org/entity/Q847739,франк КФА BEAC,1847549,28051,
+http://www.wikidata.org/entity/Q23681,Турецкая Республика Северного Кипра,http://www.wikidata.org/entity/Q172872,турецкая лира,476214,3355,
+http://www.wikidata.org/entity/Q1014,Либерия,http://www.wikidata.org/entity/Q242988,Либерийский доллар,5214030,111369,
+http://www.wikidata.org/entity/Q21203,Аруба,http://www.wikidata.org/entity/Q232270,арубанский флорин,106739,178.916378,
+http://www.wikidata.org/entity/Q34754,Сомалиленд,http://www.wikidata.org/entity/Q24302270,ZAAD,6500000,177000,
+http://www.wikidata.org/entity/Q945,Того,http://www.wikidata.org/entity/Q861690,франк КФА BCEAO,7797694,56785,
+http://www.wikidata.org/entity/Q1044,Сьерра-Леоне,http://www.wikidata.org/entity/Q4587,леоне,7557212,71740,
+http://www.wikidata.org/entity/Q1049,Судан,http://www.wikidata.org/entity/Q271206,суданский фунт,40533330,1840687,
+http://www.wikidata.org/entity/Q1049,Судан,http://www.wikidata.org/entity/Q271206,суданский фунт,40533330,1886068,
+http://www.wikidata.org/entity/Q184,Беларусь,http://www.wikidata.org/entity/Q21531507,Белорусский рубль,9109280,207596.76,rubl’u
+http://www.wikidata.org/entity/Q710,Кирибати,http://www.wikidata.org/entity/Q1049963,доллар Кирибати,134518,811,
+http://www.wikidata.org/entity/Q25279,Кюрасао,http://www.wikidata.org/entity/Q737779,Карибский гульден,152849,444,
+http://www.wikidata.org/entity/Q219060,Государство Палестина,http://www.wikidata.org/entity/Q131309,новый израильский шекель,5227193,6020,
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4917,доллар США,17100715,42201,US dollar
+http://www.wikidata.org/entity/Q664,Новая Зеландия,http://www.wikidata.org/entity/Q1472704,новозеландский доллар,5307800,268021,
+http://www.wikidata.org/entity/Q884,Республика Корея,http://www.wikidata.org/entity/Q3867091,корейский мун,51466201,100295,
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,euro
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,euro
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,euro
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,euro
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,Euro
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,euro
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,euro
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,euro
+http://www.wikidata.org/entity/Q1009,Камерун,http://www.wikidata.org/entity/Q847739,франк КФА BEAC,28372687,475442,
+http://www.wikidata.org/entity/Q107258515,Шаханшахское Государство Иран,http://www.wikidata.org/entity/Q188608,иранский риал,,648195,
+http://www.wikidata.org/entity/Q1039,Сан-Томе и Принсипи,http://www.wikidata.org/entity/Q193712,Добра Сан-Томе и Принсипи,204327,1001,
+http://www.wikidata.org/entity/Q1037,Руанда,http://www.wikidata.org/entity/Q4741,руандийский франк,14569341,26338,
+http://www.wikidata.org/entity/Q34020,Ниуэ,http://www.wikidata.org/entity/Q4165057,доллар Ниуэ,1821,260,
+http://www.wikidata.org/entity/Q16,Канада,http://www.wikidata.org/entity/Q1104069,канадский доллар,36991981,9984670,CA$
+http://www.wikidata.org/entity/Q1042,Сейшельские Острова,http://www.wikidata.org/entity/Q4595,сейшельская рупия,119773,459,
+http://www.wikidata.org/entity/Q971,Республика Конго,http://www.wikidata.org/entity/Q847739,франк КФА BEAC,6142180,342000,
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,euro
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,euro
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,euro
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,euro
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,Euro
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,euro
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,euro
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,euro
+http://www.wikidata.org/entity/Q736,Эквадор,http://www.wikidata.org/entity/Q4917,доллар США,16938986,257204.27,US dollar
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q259502,австралийский доллар,15178979,390757,AU$
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q259502,австралийский доллар,15178979,390757,AU$
+http://www.wikidata.org/entity/Q954,Зимбабве,http://www.wikidata.org/entity/Q259502,австралийский доллар,15178979,390757,AU$
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q232270,арубанский флорин,17100715,42201,
+http://www.wikidata.org/entity/Q657,Чад,http://www.wikidata.org/entity/Q847739,франк КФА BEAC,19319064,1284000,
+http://www.wikidata.org/entity/Q970,Коморы,http://www.wikidata.org/entity/Q267264,Франк Комор,902348,2034,
+http://www.wikidata.org/entity/Q1041,Сенегал,http://www.wikidata.org/entity/Q861690,франк КФА BCEAO,16876720,196722,
+http://www.wikidata.org/entity/Q34754,Сомалиленд,http://www.wikidata.org/entity/Q737384,сомалилендский шиллинг,6500000,177000,
+http://www.wikidata.org/entity/Q734,Гайана,http://www.wikidata.org/entity/Q213005,гайанский доллар,878674,214970,
+http://www.wikidata.org/entity/Q1007,Гвинея-Бисау,http://www.wikidata.org/entity/Q861690,франк КФА BCEAO,1861283,36125,
+http://www.wikidata.org/entity/Q26988,Острова Кука,http://www.wikidata.org/entity/Q1472704,новозеландский доллар,14222,240,
+http://www.wikidata.org/entity/Q1036,Уганда,http://www.wikidata.org/entity/Q4598,угандийский шиллинг,47123531,241038,
+http://www.wikidata.org/entity/Q1147441,Британский Северный Борнео,http://www.wikidata.org/entity/Q2407759,доллар Малайи и Британского Борнео,285000,761152,
+http://www.wikidata.org/entity/Q1147441,Британский Северный Борнео,http://www.wikidata.org/entity/Q2407759,доллар Малайи и Британского Борнео,67062,761152,
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,евро
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,ευρώ
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,euro
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,euro
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,euró
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,euras
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,eiro
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,ewro
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,euro
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,euro
+http://www.wikidata.org/entity/Q874,Туркменистан,http://www.wikidata.org/entity/Q486637,туркменский манат,6117933,491210,
+http://www.wikidata.org/entity/Q958,Южный Судан,http://www.wikidata.org/entity/Q244366,южносуданский фунт,12575714,644329,
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q737779,Карибский гульден,17100715,42201,
+http://www.wikidata.org/entity/Q26273,Синт-Мартен,http://www.wikidata.org/entity/Q737779,Карибский гульден,43847,34,
+http://www.wikidata.org/entity/Q717,Венесуэла,http://www.wikidata.org/entity/Q56349362,Суверенный боливар,31250306,912050,
+http://www.wikidata.org/entity/Q800,Коста-Рика,http://www.wikidata.org/entity/Q242915,костариканский колон,5265575,51179.92,
+http://www.wikidata.org/entity/Q929,Центральноафриканская Республика,http://www.wikidata.org/entity/Q847739,франк КФА BEAC,5152421,622984,
+http://www.wikidata.org/entity/Q912,Мали,http://www.wikidata.org/entity/Q861690,франк КФА BCEAO,20250833,1240192,
+http://www.wikidata.org/entity/Q962,Бенин,http://www.wikidata.org/entity/Q861690,франк КФА BCEAO,14111034,114763,
+http://www.wikidata.org/entity/Q733,Парагвай,http://www.wikidata.org/entity/Q207514,парагвайский гуарани,6811297,406756,
+http://www.wikidata.org/entity/Q1000,Габон,http://www.wikidata.org/entity/Q847739,франк КФА BEAC,2025137,267667,
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,евро
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,ευρώ
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,euro
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,euro
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,euró
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,euras
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,eiro
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,ewro
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,euro
+http://www.wikidata.org/entity/Q1246,Республика Косово,http://www.wikidata.org/entity/Q4916,евро,1586659,10909,euro
+http://www.wikidata.org/entity/Q26988,Острова Кука,http://www.wikidata.org/entity/Q507737,доллар Островов Кука,14222,240,
+http://www.wikidata.org/entity/Q1050,Эсватини,http://www.wikidata.org/entity/Q4823,Свазилендский лилангени,1230506,17364,
+http://www.wikidata.org/entity/Q1045,Сомали,http://www.wikidata.org/entity/Q4603,сомалийский шиллинг,11031386,637657,
+http://www.wikidata.org/entity/Q739,Колумбия,http://www.wikidata.org/entity/Q244819,колумбийское песо,52321152,1141748,
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,http://www.wikidata.org/entity/Q4916,евро,17100715,42201,euro
