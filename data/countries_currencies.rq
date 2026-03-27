@@ -1,0 +1,10 @@
+# Countries with their official currencies and key indicators (Wikidata)
+SELECT DISTINCT ?country ?countryLabel ?currency ?currencyLabel ?population ?area ?shortName
+WHERE {
+  ?country wdt:P31 wd:Q6256 .                        # Item is a country
+  ?country wdt:P38 ?currency .                       # Official currency of the country
+  OPTIONAL { ?country wdt:P1082 ?population . }      # Population of the country
+  OPTIONAL { ?country wdt:P2046 ?area . }            # Area of the country in km²
+  OPTIONAL { ?currency wdt:P1813 ?shortName . }      # Short name of the currency
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
