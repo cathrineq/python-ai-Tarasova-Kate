@@ -1,0 +1,22 @@
+# Currency exchange rates with historical time data (Wikidata)
+SELECT ?currency ?currencyLabel ?shortName ?price ?year ?startYear ?unitLabel ?unitSymbol
+WHERE {
+  ?currency wdt:P31 wd:Q8142 .                      # Item is a currency
+  OPTIONAL { ?currency wdt:P1813 ?shortName . }      # Short name of the currency
+  OPTIONAL { ?currency wdt:P5061 ?unitSymbol . }     # Unit symbol of the currency
+  OPTIONAL {
+    ?currency p:P2284 ?priceStatement .
+    ?priceStatement ps:P2284 ?price .                # Exchange rate value
+    ?priceStatement psv:P2284 ?priceValue .
+    ?priceValue wikibase:quantityUnit ?unit .         # Unit of measurement (target currency)
+    OPTIONAL {
+      ?priceStatement pq:P585 ?pointInTime .          # Point in time P585
+      BIND(YEAR(?pointInTime) AS ?year)
+    }
+    OPTIONAL {
+      ?priceStatement pq:P580 ?startDate .            # Start time of exchange rate
+      BIND(YEAR(?startDate) AS ?startYear)
+    }
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
